@@ -1,0 +1,15 @@
+# GO
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# VUE
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
