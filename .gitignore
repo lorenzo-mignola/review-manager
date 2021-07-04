@@ -13,3 +13,7 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# DB
+*.db
+*.sql
