@@ -4,6 +4,6 @@ import "gorm.io/gorm"
 
 type Review struct {
 	gorm.Model
-	text string
+	Text string
 	Star int
 }

@@ -5,7 +5,7 @@
       "previewLimit": 50,
       "driver": "SQLite",
       "name": "reviews",
-      "database": "L:\\home\\lorenzo\\code\\review-manager\\server\\review.db"
+      "database": "${workspaceFolder:review-manager}/server/review.db"
     }
   ]
 }
